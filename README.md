@@ -1,2 +1,2 @@
-# AIDventures_Website
-The RainDrop Dialogue Foundation Dallas - AIDventures Ogranization Official Website
+# Aidventurers_Website
+The Raindrop Dialogue Foundation Dallas - Aidventurers Organization Official Website
